@@ -8,7 +8,7 @@
 
 > **Which EU countries are actually ready for AI — and why?** A data-driven analysis of enterprise AI adoption across 30+ European economies using official Eurostat data (2024–2025), with a composite AI Readiness Index and interactive Tableau dashboards.
 
-**[Live Demo (Streamlit)](https://your-app.streamlit.app)** &nbsp;|&nbsp; **[Tableau Dashboard (Public)](https://public.tableau.com/your-link)**
+**[Live Demo (Streamlit)](https://eu-ai-adoption-analytics-wsz9ndn2qpacrj9k6uqwrwbhphwsxs.streamlit.app)** &nbsp;|&nbsp; **[Tableau Dashboard (Public)](https://public.tableau.com/your-link)**
 
 ---
 
